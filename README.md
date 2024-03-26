@@ -1,7 +1,11 @@
 # aes_and_rsa_encryption
 (Python | Tkinter)
 
-The system encrypts and decrypts messages written in a text field or a text file using the AES and RSA Ciphers. 
+This application allows users to encrypt and decrypt messages written in a text field or a text file using the AES and the RSA Ciphers. 
+
+The AES cipher uses a key size of 256 bits, and the RSA cipher can generate public key pairs (n, e) and private key pairs (n, d) with 80 or 128 bits.
+
+The system shows each step of the AES encryption and decryption process, including the initial key, the round keys, and the ciphertext for each 16-byte block. 
 
 ![01](https://github.com/jose-ambrosioo/aes_and_rsa_encryption/assets/59221796/11581b65-b46d-451c-abeb-10dc87dfe832)
 
