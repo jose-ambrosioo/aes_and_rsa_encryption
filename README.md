@@ -13,8 +13,6 @@ The system shows each step of the AES encryption and decryption process, includi
 
 ![09](https://github.com/jose-ambrosioo/aes_and_rsa_encryption/assets/59221796/f193de0a-bb31-4440-b97d-0ff9d2e7b28c)
 
-![12](https://github.com/jose-ambrosioo/aes_and_rsa_encryption/assets/59221796/f1122e5d-5ac0-4e64-b2db-e818943379a7)
-
 ![13](https://github.com/jose-ambrosioo/aes_and_rsa_encryption/assets/59221796/36cfb23e-b288-41df-bda5-ade3012df9c3)
 
 ![10](https://github.com/jose-ambrosioo/aes_and_rsa_encryption/assets/59221796/fc9d0baa-8e24-4d0a-98ba-baa464a6f069)
